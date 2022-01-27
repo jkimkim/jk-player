@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763437383645",
+    "project_id": "jkim-player",
+    "storage_bucket": "jkim-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763437383645:android:e325c6888d474248268034",
+        "android_client_info": {
+          "package_name": "tech.jkimtech.jkimplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763437383645-9kkdr2tojkp33nd6b7sgbi76dp35q90o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpVe0PthrBho1_KI2XOzJQfg6fkVMrLFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763437383645-9kkdr2tojkp33nd6b7sgbi76dp35q90o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
